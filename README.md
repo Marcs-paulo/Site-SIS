@@ -18,7 +18,7 @@ Seleção de novos membros para o nosso grupo
 <br>
 
 <p align="center">
-  <img alt="Projeto SIS" src=".github/preview.png" width="100%">
+  <img alt="Projeto SIS" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
